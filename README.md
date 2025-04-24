@@ -8,6 +8,8 @@ I'm a **Web Developer** based in **Cape Town** 🇿🇦, passionate about buildi
 - 💻 HTML, CSS, JavaScript
 - ⚛️ React, 
 - 🐘 Node.js
+- .NET
+-C#
 - 🛠️ Git, GitHub, VS Code
 
 ## 🚀 What I'm Working On
