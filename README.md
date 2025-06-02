@@ -1,6 +1,6 @@
 # Khanya_Maqula
 
-# Hi there 👋 I'm Khanya
+# Hi I'm Khanya   𝐖𝐄𝐋𝐂𝐎𝐌𝐄  
 
 I'm a **Web Developer** based in **Cape Town** 🇿🇦, passionate about building beautiful and functional web applications. I enjoy working across the full stack, turning ideas into user-friendly digital experiences.
 
